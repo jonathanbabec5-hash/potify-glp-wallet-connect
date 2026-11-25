@@ -1,0 +1,7 @@
+{
+  "project": "Green Light Pay Wallet Connection",
+  "kind": "Application source",
+  "source": "green-light-wallet-525239 at `06dcf95384b2e07cc021226e627ace5e3ebb5227`. Standalone wallet reader and its embedded shipped HTML.",
+  "scope": "A mock connection does not establish native compatibility. This component neither signs nor settles a payment.",
+  "prepared": "2026-11-25"
+}
