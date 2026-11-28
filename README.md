@@ -1,5 +1,13 @@
 # Green Light Pay Wallet Connection
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A wallet developer | [Read the adapter](wallet-connection.js) | Follow provider discovery, account changes and balance reads. |
+| A tester | [Review mock-wallet tests](tests/wallet.test.cjs) | Check what happens after account switching and disconnect. |
+| A product builder | [Explore the consumer demo](https://github.com/jonathanbabec5-hash/potify-green-light-pay) | Compare the separate simulated purchase flow. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## Which account is the screen showing now?
